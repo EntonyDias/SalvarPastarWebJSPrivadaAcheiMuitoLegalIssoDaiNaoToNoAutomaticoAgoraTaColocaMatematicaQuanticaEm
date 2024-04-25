@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Didact+Gothic&display=swap');
+
+body {
+    background: rgb(14, 0, 22)
+}
+.Foto img{
+    border-radius: 99px;
+    border: solid 6px;
+    width: 200px;
+    border-color: rebeccapurple;
+}
+
+main {
+    margin: 3%;
+    padding: 3%;
+}
+
+#v1, #v2, #v3 {
+    width: 30%;
+    size: 30%;
+}
+
+.osvs{
+    color: blueviolet;
+    display: flex;
+    gap: 8%;
+    margin: 8%;
+}
+
+.Foto {
+    text-align: center;
+    padding-top: 20px;
+}
+.Name {
+    font-family: 'Didact Gothic', sans-serif;
+    color: #663399;
+    text-align: center;
+}
+.Information {
+    font-family: 'Didact Gothic', sans-serif;
+    color: #663399;
+    text-align: center;
+    padding-left: 83px;
+    padding-right: 83px;
+        padding-bottom: 38px;
+}
+.List {
+    color: #663399;
+    text-align: center;
+    padding: 0;
+    list-style: none;
+    font-family: 'Didact Gothic', sans-serif;
+}
+#noine {
+    font-size: xx-large;
+    display: flex;
+    list-style: none;
+}
+
+#naine {
+    font-size: xx-large;
+    display: flex;
+    list-style: none;
+}
+
+#v4 {
+    text-align: center;
+    display: flex;
+    gap: 30%;
+    margin: auto;
+    padding: 0;
+}
+footer{
+    text-align: center;
+    display: flex;
+    margin-left: 43%;
+}
